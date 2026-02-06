@@ -26,5 +26,6 @@ KeyFrees helps users organize and maintain license keys in a simple and reliable
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/keyfrees.git
+git clone https://github.com/keyfrees/keyfrees.git
 cd keyfrees
+
