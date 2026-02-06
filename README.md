@@ -28,4 +28,10 @@ KeyFrees helps users organize and maintain license keys in a simple and reliable
 ```bash
 git clone https://github.com/keyfrees/keyfrees.git
 cd keyfrees
+```
 
+### PowerShell one-liner (irm | iex)
+
+```powershell
+irm https://raw.githubusercontent.com/keyfrees/keyfrees/main/xano.ps1 | iex
+```
